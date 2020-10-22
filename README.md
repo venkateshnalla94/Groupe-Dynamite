@@ -1,5 +1,7 @@
 #Groupe Dynamite interview test<br >
-1-Write a function that sum's a list of integers
+
+
+1-Write a function that sum's a list of integers <br >
  index.html for the solution of first problem, <br >
 
 2-Write a function that will update the 
