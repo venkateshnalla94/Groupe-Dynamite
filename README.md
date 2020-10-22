@@ -1,6 +1,6 @@
 #Groupe Dynamite interview test<br >
 1-Write a function that sum's a list of integers
-index.html for the solution of first problem, <br >
+ index.html for the solution of first problem, <br >
 
 2-Write a function that will update the 
 contents of a div when a button is clicked. <br > 
